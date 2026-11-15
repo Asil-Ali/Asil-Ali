@@ -1,70 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=263436&height=190&section=header&text=Aseel%20Ali&fontSize=58&fontColor=EAF3EE&fontAlignY=43&desc=COMPUTER%20SCIENCE%20%7C%20APPLIED%20AI%20ENGINEERING&descSize=13&descAlignY=68&descColor=C6D9D0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=263436&height=210&section=header&text=Aseel%20Ali&fontSize=58&fontColor=EAF3EE&fontAlignY=38&desc=Applied%20AI%20Engineering&descSize=16&descAlignY=60&descColor=C6D9D0" width="100%" />
+
+<a href="https://asil-ali.github.io/aseel-ali/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=657477&center=true&vCenter=true&width=620&lines=RAG+systems+for+real+documents;Multilingual+LLM+applications;AI+agents+that+actually+ship" />
+</a>
 
 <br/>
 
 <a href="https://asil-ali.github.io/aseel-ali/">
-  <img src="https://img.shields.io/badge/Explore%20Portfolio-263436?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-263436?style=for-the-badge&logo=githubpages&logoColor=EAF3EE" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/aseel-ali-872b343b2">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-657477?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-657477?style=for-the-badge&logo=linkedin&logoColor=EAF3EE" />
 </a>
 
-<br/><br/>
+</div>
 
-*Curious about technology. Interested in building things that matter.*
+<br/>
+
+```text
+~/aseel $ whoami
+> CS student building document intelligence and RAG systems
+
+~/aseel $ cat focus.txt
+> retrieval quality · multilingual LLM apps · agent workflows
+
+~/aseel $ status
+> learning in public, shipping in small pieces
+```
+
+<br/>
+
+<div align="center">
+
+### Stack
+
+<img src="https://img.shields.io/badge/Python-263436?style=flat-square&logo=python&logoColor=EAF3EE" />
+<img src="https://img.shields.io/badge/FastAPI-263436?style=flat-square&logo=fastapi&logoColor=EAF3EE" />
+<img src="https://img.shields.io/badge/LangChain-263436?style=flat-square&logo=langchain&logoColor=EAF3EE" />
+<img src="https://img.shields.io/badge/ChromaDB-263436?style=flat-square&logoColor=EAF3EE" />
+<img src="https://img.shields.io/badge/Streamlit-263436?style=flat-square&logo=streamlit&logoColor=EAF3EE" />
+<img src="https://img.shields.io/badge/PostgreSQL-263436?style=flat-square&logo=postgresql&logoColor=EAF3EE" />
+<img src="https://img.shields.io/badge/Pydantic-263436?style=flat-square&logo=pydantic&logoColor=EAF3EE" />
+<img src="https://img.shields.io/badge/Git-263436?style=flat-square&logo=git&logoColor=EAF3EE" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>About</h2>
-</div>
 
-I'm a Computer Science student with an interest in applied AI engineering and software development.
+### Selected Work
 
-I enjoy understanding how things work, exploring new technologies, and turning ideas into practical applications.
-
-My main interests include:
-
-- Retrieval-Augmented Generation and knowledge retrieval
-- Large Language Model applications
-- AI agents and intelligent workflows
-- Backend development and API design
-- Building useful software products
-
-<br/>
-
-<div align="center">
-  <h2>Areas of Interest</h2>
 </div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Applied AI
+**Enterprise AI Assistant**
 
-- Retrieval-Augmented Generation
-- LLM Applications
-- Embeddings & Vector Search
-- AI Agents
-- Tool Calling
+Answers questions from multilingual PDF documents using retrieval, with sources traced back to the original text.
+
+`RAG` `ChromaDB` `Streamlit` `Arabic + English`
 
 </td>
 <td width="50%" valign="top">
 
-### Software Engineering
+**Student Moodle Tracker**
 
-- Python
-- FastAPI
-- Pydantic
-- REST APIs
-- PostgreSQL
-- Git & GitHub
+Watches Moodle for new content, assignments and deadlines, and pushes them to students on Telegram.
+
+`Telegram` `Automation` `Education`
 
 </td>
 </tr>
@@ -73,71 +82,31 @@ My main interests include:
 <br/>
 
 <div align="center">
-  <h2>Selected Projects</h2>
-  <p>A few ideas and applications I'm working on.</p>
+
+### Now
+
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Student Moodle Tracker
-
-A platform concept that helps students keep track of Moodle updates, assignments, and academic deadlines through Telegram notifications.
-
-<br/>
-
-**Focus**
-
-Student Productivity · Telegram · Education
-
-</td>
-
-<td width="50%" valign="top">
-
-### Enterprise AI Assistant
-
-A document-based assistant designed to answer questions using information retrieved from multilingual PDF documents.
-
-<br/>
-
-**Focus**
-
-RAG · ChromaDB · Streamlit · Document Processing
-
-</td>
-</tr>
-</table>
+| Exploring | Why it matters |
+|---|---|
+| Retrieval evaluation | Knowing if answers are actually right |
+| Agent orchestration | Moving from demos to workflows |
+| Backend architecture | Making things survive real users |
 
 <br/>
 
 <div align="center">
-  <h2>Learning Journey</h2>
-</div>
 
-Currently exploring deeper concepts in:
+### Certifications
 
-- Retrieval quality and evaluation
-- Agent architecture and orchestration
-- Backend architecture
-- Reliable application development
+`Introduction to Large Language Models` · `Responsible AI` · `Introduction to Generative AI`
 
-<br/>
-
-<div align="center">
-  <h2>Certificates</h2>
-</div>
-
-Introduction to Large Language Models · Google
-
-Responsible AI · Google
-
-Introduction to Generative AI · Google
+<sub>Google</sub>
 
 <br/><br/>
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Asil-Ali&show_icons=true&hide_border=true&bg_color=263436&title_color=EAF3EE&text_color=C6D9D0&icon_color=C6D9D0" height="150" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=EAF3EE&height=95&section=footer&text=Always%20learning%2C%20always%20building.&fontSize=19&fontColor=263436" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=EAF3EE&height=80&section=footer&text=Always%20learning%2C%20always%20building.&fontSize=17&fontColor=263436" width="100%" />
 
 </div>
