@@ -1,93 +1,95 @@
-<div align="center">
-
-# Aseel Ali
-
-### AI Engineering · RAG Systems · LLM Applications · AI Agents
-
-Computer Science Student | Building practical AI-powered applications
-
-<br>
-
-<a href="https://asil-ali.github.io/aseel-ali/">
-  <img src="https://img.shields.io/badge/Portfolio-EAF3EE?style=for-the-badge&logo=googlechrome&logoColor=263436" />
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=263436&height=180&section=header&text=Aseel%20Ali&fontSize=58&fontColor=EAF3EE&fontAlignY=45&desc=AI%20ENGINEERING%20%7C%20RAG%20%7C%20LLM%20APPLICATIONS%20%7C%20AGENTS&descSize=13&descAlignY=72&descColor=C6D9D0" /><br/><a href="https://asil-ali.github.io/aseel-ali/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-263436?style=for-the-badge&logo=googlechrome&logoColor=EAF3EE" />
 </a>
 <a href="https://www.linkedin.com/in/aseel-ali-872b343b2">
-  <img src="https://img.shields.io/badge/LinkedIn-EAF3EE?style=for-the-badge&logo=linkedin&logoColor=263436" />
-</a>
+  <img src="https://img.shields.io/badge/LINKEDIN-657477?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+</a><br/><br/>
 
-</div>
+Turning AI capabilities into practical, useful systems.
 
----
+</div>---
 
-## About Me
+"01" — About Me
 
-I'm a Computer Science student focused on **Applied AI Engineering**.
+I'm a Computer Science student focused on Applied AI Engineering.
 
-I'm interested in building useful and reliable AI applications by combining language models, retrieval systems, and backend engineering.
+My interest lies in building AI-powered applications that go beyond simple model interactions — combining retrieval, language models, backend systems, and intelligent workflows to solve practical problems.
 
-My current focus is on:
+Currently, I'm focusing on:
 
-- **Retrieval-Augmented Generation (RAG)** — building document-grounded AI applications.
-- **LLM Applications** — integrating language models into practical products.
-- **AI Agents** — exploring tool calling, workflows, and agent orchestration.
-- **Backend Engineering** — developing the foundations behind reliable AI systems.
-
----
-
-## Technical Focus
-
-| Area | Technologies & Concepts |
-|---|---|
-| AI Engineering | RAG, LLM Applications, AI Agents |
-| Retrieval | Embeddings, Vector Search, ChromaDB |
-| Backend | Python, FastAPI, Pydantic |
-| APIs | REST, HTTP, JSON, Authentication |
-| Databases | PostgreSQL, SQL |
-| Tools | Git, GitHub, Streamlit |
+- RAG Systems — retrieval pipelines, embeddings, vector search, and grounded generation.
+- LLM Engineering — structured outputs, context design, and application integration.
+- AI Agents — tool calling, orchestration, state management, and workflows.
+- Backend Development — APIs, validation, databases, and reliable application architecture.
 
 ---
 
-## Selected Projects
+"02" — Technical Landscape
 
-### Student Moodle Tracker — SMT
+<div align="center">AI & LLM Engineering
 
-A student-focused platform concept that transforms Moodle updates and academic deadlines into clear Telegram notifications.
+<img src="https://img.shields.io/badge/RAG-263436?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM_Applications-263436?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Agents-263436?style=flat-square" />
+<img src="https://img.shields.io/badge/Embeddings-263436?style=flat-square" />
+<img src="https://img.shields.io/badge/Vector_Search-263436?style=flat-square" />Backend & Data
 
-`Student Productivity` `Moodle` `Telegram`
+<img src="https://img.shields.io/badge/Python-EAF3EE?style=flat-square&logo=python&logoColor=263436" />
+<img src="https://img.shields.io/badge/FastAPI-EAF3EE?style=flat-square&logo=fastapi&logoColor=263436" />
+<img src="https://img.shields.io/badge/Pydantic-EAF3EE?style=flat-square" />
+<img src="https://img.shields.io/badge/PostgreSQL-EAF3EE?style=flat-square&logo=postgresql&logoColor=263436" />
+<img src="https://img.shields.io/badge/ChromaDB-EAF3EE?style=flat-square" />Tools & Development
 
-### Enterprise AI Assistant
+<img src="https://img.shields.io/badge/Git-E5E4DC?style=flat-square&logo=git&logoColor=263436" />
+<img src="https://img.shields.io/badge/GitHub-E5E4DC?style=flat-square&logo=github&logoColor=263436" />
+<img src="https://img.shields.io/badge/Streamlit-E5E4DC?style=flat-square&logo=streamlit&logoColor=263436" />
+<img src="https://img.shields.io/badge/REST_APIs-E5E4DC?style=flat-square" /></div>---
 
-A document-question-answering application exploring RAG for multilingual PDF content.
+"03" — Featured Work
 
-`RAG` `ChromaDB` `Streamlit` `LLMs`
+<table>
+<tr>
+<td width="50%" valign="top">◈ Student Moodle Tracker
 
----
+SMT — Moodle to Telegram
 
-## Learning & Credentials
+A student-focused product concept designed to transform Moodle updates and academic deadlines into clear, timely Telegram notifications.
 
-- Introduction to Large Language Models — Google
-- Responsible AI — Google
-- Introduction to Generative AI — Google
+<br/>"Product Development" "Telegram" "Education"
 
----
+</td>
+<td width="50%" valign="top">◈ Enterprise AI Assistant
 
-## Currently Exploring
+A document-question-answering application exploring RAG for multilingual PDF content and knowledge retrieval.
 
-- Improving retrieval quality and RAG evaluation.
-- Building robust APIs for AI-powered applications.
-- Designing agent workflows with tools, state, and control flow.
-- Testing and evaluating LLM-based systems.
+<br/>"RAG" "ChromaDB" "Streamlit" "LLMs"
 
----
+</td>
+</tr>
+</table>---
 
-<div align="center">
+"04" — Learning & Credentials
 
-**Building practical AI, one system at a time.**
+<div align="center">Program| Organization
+Introduction to Large Language Models| Google
+Responsible AI| Google
+Introduction to Generative AI| Google
 
-<br>
+</div>---
+
+"05" — Current Focus
+
+<div align="center"><img src="https://img.shields.io/badge/01-RAG%20Evaluation-263436?style=for-the-badge" />
+<img src="https://img.shields.io/badge/02-Agent%20Workflows-657477?style=for-the-badge" />
+<img src="https://img.shields.io/badge/03-Backend%20Architecture-263436?style=for-the-badge" />
+<img src="https://img.shields.io/badge/04-LLM%20Testing-EAF3EE?style=for-the-badge&labelColor=EAF3EE" /></div>---
+
+<div align="center">Let's Connect
 
 <a href="https://asil-ali.github.io/aseel-ali/">Portfolio</a>
-&nbsp; · &nbsp;
+  •  
 <a href="https://www.linkedin.com/in/aseel-ali-872b343b2">LinkedIn</a>
 
-</div>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=EAF3EE&height=65&section=footer&text=Building%20with%20curiosity.%20Engineering%20with%20purpose.&fontSize=15&fontColor=263436" /></div>
